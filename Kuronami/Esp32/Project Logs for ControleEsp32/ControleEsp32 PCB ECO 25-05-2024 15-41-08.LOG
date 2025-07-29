@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SEN1 Pin=U1-J2-5
+Removed Pin From Net: NetName=SEN2 Pin=U1-J2-6
+Removed Pin From Net: NetName=DIST3 Pin=U1-J2-11
+Removed Pin From Net: NetName=DIST2 Pin=U1-J2-12
+Removed Pin From Net: NetName=MedidorBateria Pin=U1-J3-6
+Removed Pin From Net: NetName=LED5 Pin=U1-J3-10
+Removed Pin From Net: NetName=LED1 Pin=U1-J3-14
+Removed Pin From Net: NetName=DIST5 Pin=U1-J3-15
+Removed Pin From Net: NetName=DIST4 Pin=U1-J3-16
+Added Pin To Net: NetName=MedidorBateria Pin=U1-J2-4
+Added Pin To Net: NetName=DIST3 Pin=U1-J2-6
+Added Pin To Net: NetName=SEN1 Pin=U1-J2-11
+Added Pin To Net: NetName=SEN2 Pin=U1-J2-12
+Added Pin To Net: NetName=DIST2 Pin=U1-J2-15
+Added Pin To Net: NetName=DIST4 Pin=U1-J3-6
+Added Pin To Net: NetName=LED1 Pin=U1-J3-8
+Added Pin To Net: NetName=LED5 Pin=U1-J3-9

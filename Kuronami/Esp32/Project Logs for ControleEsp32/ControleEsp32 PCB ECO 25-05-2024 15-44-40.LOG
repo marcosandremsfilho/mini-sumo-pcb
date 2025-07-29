@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DIST4 Pin=U1-J3-6
+Removed Pin From Net: NetName=LED1 Pin=U1-J3-8
+Removed Pin From Net: NetName=LED5 Pin=U1-J3-9
+Removed Pin From Net: NetName=LED4 Pin=U1-J3-11
+Removed Pin From Net: NetName=LED3 Pin=U1-J3-12
+Removed Pin From Net: NetName=LED2 Pin=U1-J3-13
+Added Pin To Net: NetName=LED5 Pin=U1-J3-8
+Added Pin To Net: NetName=LED4 Pin=U1-J3-9
+Added Pin To Net: NetName=LED3 Pin=U1-J3-11
+Added Pin To Net: NetName=LED2 Pin=U1-J3-12
+Added Pin To Net: NetName=LED1 Pin=U1-J3-13
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

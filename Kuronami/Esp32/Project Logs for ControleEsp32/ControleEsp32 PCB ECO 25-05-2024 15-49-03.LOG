@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MedidorBateria Pin=U1-J2-4
+Added Pin To Net: NetName=MedidorBateria Pin=U1-J3-6
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

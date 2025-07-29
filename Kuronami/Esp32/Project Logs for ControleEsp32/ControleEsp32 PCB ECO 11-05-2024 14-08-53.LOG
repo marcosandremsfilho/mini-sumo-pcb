@@ -1,0 +1,26 @@
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "BibliotecaBIOT.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=MedidorBateria Pin=U?-15
+Added Pin To Net: NetName=5V Pin=U?-19
+Added Pin To Net: NetName=M1PWM Pin=U?-23
+Added Pin To Net: NetName=M1DIR Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=M2PWM Pin=U?-36
+Added Pin To Net: NetName=M2DIR Pin=U?-37
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Member To Class: ClassName=controleEsp32 Member=Component U? ESP32-DEVKITC
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

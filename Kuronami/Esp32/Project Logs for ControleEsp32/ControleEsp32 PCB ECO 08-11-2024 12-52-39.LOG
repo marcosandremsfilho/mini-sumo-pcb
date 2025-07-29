@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=C8-2
+Removed Member From Class: ClassName=controleEsp32 Member=C8
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=MedidorBateria Pin=U1-15
+Removed Pin From Net: NetName=5V Pin=U1-19
+Removed Pin From Net: NetName=M1PWM Pin=U1-23
+Removed Pin From Net: NetName=M1DIR Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-32
+Removed Pin From Net: NetName=M2PWM Pin=U1-36
+Removed Pin From Net: NetName=M2DIR Pin=U1-37
+Removed Pin From Net: NetName=GND Pin=U1-38
+Added Component: Designator=U1(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=MedidorBateria Pin=U1-15
+Added Pin To Net: NetName=5V Pin=U1-19
+Added Pin To Net: NetName=M1PWM Pin=U1-23
+Added Pin To Net: NetName=M1DIR Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=M2PWM Pin=U1-36
+Added Pin To Net: NetName=M2DIR Pin=U1-37
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=M2DIR Pin=U1-J3-2
+Removed Pin From Net: NetName=M2PWM Pin=U1-J3-3
+Added Pin To Net: NetName=M2PWM Pin=U1-J3-2
+Added Pin To Net: NetName=M2DIR Pin=U1-J3-3
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

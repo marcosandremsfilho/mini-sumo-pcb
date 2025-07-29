@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-2
+Removed Pin From Net: NetName=DIST1 Pin=R16-2
+Removed Pin From Net: NetName=DIST2 Pin=R17-2
+Removed Pin From Net: NetName=DIST3 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=DIST4 Pin=R21-2
+Removed Pin From Net: NetName=DIST5 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=J3-PIN2
+Added Pin To Net: NetName=DIST1 Pin=J3-PIN3
+Added Pin To Net: NetName=GND Pin=J4-PIN2
+Added Pin To Net: NetName=DIST2 Pin=J4-PIN3
+Added Pin To Net: NetName=GND Pin=J5-PIN2
+Added Pin To Net: NetName=DIST3 Pin=J5-PIN3
+Added Pin To Net: NetName=GND Pin=J6-PIN2
+Added Pin To Net: NetName=DIST4 Pin=J6-PIN3
+Added Pin To Net: NetName=GND Pin=J7-PIN2
+Added Pin To Net: NetName=DIST5 Pin=J7-PIN3
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares
