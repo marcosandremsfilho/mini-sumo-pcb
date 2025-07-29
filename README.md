@@ -103,21 +103,11 @@ To step down from 5V to 3.3V, a linear regulator (LDL1117S33R) was used. The des
 <img src="./media/image5.png" style="width:7.34727in;height:4.15187in"
 alt="A picture containing timeline Description automatically generated" />
 <p align= "center">
-Figura 4 Esquemático micro
+Figure 4 – Microcontroller Schematic
 
-A escolha desse micro foi crucial para o desenvolvimento geral dos
-autônomos, onde nossa categoria, a do seguidor de linha (*follow line*)
-escolheu o mesmo micro, porém com o encapsulamento de 64 pinos, o que
-gera uma maior compatibilidade dos códigos e que facilitam a
-contribuição de ambas as categorias nos desenvolvimentos delas, além da
-necessidade dos seguidores de utilizar mais componentes que o mini sumo.
+The choice of this microcontroller was crucial for the overall development of the autonomous robots. In our category — line follower — we selected the same microcontroller, but in a 64-pin package, which increases code compatibility and facilitates collaboration between both categories. The line follower robots require more components than mini sumo robots, making this choice even more appropriate.
 
-O micro da ST foi uma decisão tomada em conjunto com os integrantes do
-*follow line* com o intuito de ter uma maior interação na categoria dos
-autônomos afim de deixar fatores comuns dos robôs como motores e
-sensores padronizados. Assim, contribuindo para uma evolução mútua das
-categorias.
-
+The decision to use an ST microcontroller was made jointly with members of the line follower team, aiming to foster greater interaction within the autonomous category. This also allowed us to standardize key aspects of the robots, such as motors and sensors, thus promoting mutual development between the categories.
 Para a programação deste micro é utilizado um barramento de *headers*
 que, por sua vez vão conectados a um STlink que nos permite a conexão
 dele a porta USB dos computadores
