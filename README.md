@@ -1,158 +1,103 @@
 # Kaminari  <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0">
 Universidade Federal de Itajubá – UNIFEI
 
-<p align= "center">
-<img src="./media/image1.png" style="width:5.09073in;height:2.10417in"
+<p align= "left">
+<img src="./media/image1.png" style="width:2.5in;height:3in"
 alt="A yellow and black logo Description automatically generated with low confidence" />
 
 ### Build Report – Kaminari
 
-Eric Makiya Lazanha
+Eric Makiya Lazanha e Marcos André M. S. Filho
 
 Itajubá
 
 2023
 
-## Resumo
+## Resume
 
-A Kaminari é um reprojeto das placas destinadas ao mini-sumo, mudando do
-Arduino para STM (STM32F405RGT). Foi criada devido a necessidade de
-placas mais compactas para a categoria. Além de ser mais compacta é uma
-placa muito flexível por ser uma placa de controle separada dos drivers,
-sendo que a placa de controle e os drivers são conectados por cabos
-*flat*. Assim, é possível usar diferentes modelos de drivers e
-reprojetar apenas a placa de controle ou somente o driver.
+Kaminari is a redesigned control board developed for mini-sumo robots, transitioning from an Arduino-based system to an STM32F405RGT microcontroller. This redesign was driven by the need for more compact and modular boards for the category.
 
-A placa também é capaz de suportar baterias 4S (16.8V), diferente da
-placa de potência TB6612FNGC8EL utilizada anteriormente.
+In addition to being more compact, the board is highly flexible, as the control board is separated from the motor drivers and connected via flat cables. This modular design allows for different driver models to be used, enabling the team to redesign either the control board or the drivers independently, depending on the need.
 
-O design da placa foi inspirado no PSVita que composto por 3 placas, uma
-principal e outras duas secundárias dispostas horizontalmente com cabos.
+The board also supports 4S batteries (16.8V), which was not possible with the previously used power board based on the TB6612FNGC8EL.
+
+The design was inspired by the PlayStation Vita (PSVita), which features a main board and two secondary boards arranged horizontally and interconnected by flexible cables.
 
 <p align= "center">
 <img src="./media/image2.png" style="width:5.21871in;height:4.57243in"
 alt="A picture containing items Description automatically generated" />
 <p align= "center">
-Figura 1 PSVita desmontado
+Figure 1 – Internal layout of a disassembled PSVita, showing the separation between the mainboard and secondary boards.
 
-[1. Esquemático [4]](#esquemático)
+[1. Schematic](#schematic)
 
-[1.1 Placa de controle [4]](#placa-de-controle)
+[1.1 Control Board](#control-board)
 
-[1.1.1 Regulador 5V [4]](#regulador-5v)
+[1.1.1 5V Regulator](#5v-regulator)  
+[1.1.2 3.3V Regulator](#33v-regulator)  
+[1.1.3 Logic Circuit](#logic-circuit)  
+[1.1.4 Peripherals](#peripherals)  
+[1.1.5 Bluetooth](#bluetooth)  
+[1.1.6 Microstarter](#microstarter)  
+[1.1.7 Strategy Switch](#strategy-switch)  
+[1.1.8 Secondary Power Supply](#secondary-power-supply)  
+[1.1.9 Battery Meter](#battery-meter)  
+[1.1.10 Debug LED](#debug-led)  
+[1.1.11 Infrared Sensor](#infrared-sensor)  
+[1.1.12 Flag](#flag)  
+[1.1.13 Driver Connector](#driver-connector)  
+[1.1.14 Driver](#driver)  
+[1.1.15 Left DRV8871](#left-drv8871)  
+[1.1.16 L9958SBTR](#l9958sbtr)
 
-[1.1.2 Regulador 3.3V [5]](#regulador-33v)
+[2. Layouts](#layouts)
 
-[1.1.3 Circuito Lógico [5]](#circuito-lógico)
+[2.1 Control Board Layout](#control-board-layout)  
+[2.1.1 5V Power Supply Layout with Switch](#5v-power-supply-layout-with-switch)  
+[2.1.2 3.3V Power Supply Layout](#33v-power-supply-layout)
 
-[1.1.4 Periféricos [6]](#periféricos)
+[2.2 Auxiliary Boards Layout](#auxiliary-boards-layout)  
+[2.2.1 Infrared Sensors Layout](#infrared-sensors-layout)  
+[2.2.2 Microstarter Layout](#microstarter-layout)  
+[2.2.3 Flag Servo Layout](#flag-servo-layout)  
+[2.2.4 STM Loader Layout](#stm-loader-layout)  
+[2.2.5 Strategy Switch Layout](#strategy-switch-layout)  
+[2.2.6 Debug LEDs and Bluetooth Layout](#debug-leds-and-bluetooth-layout)  
+[2.2.7 Control Board Layout Summary](#control-board-layout-summary)
 
-[1.1.5 Bluetooth [8]](#bluetooth)
+[2.3 Driver Layouts](#driver-layouts)  
+[2.3.1 DRV8871 Driver Layout](#drv8871-driver-layout)  
+[2.3.2 L9958SBTR Layout](#l9958sbtr-layout)
 
-[*1.1.6* *Microstarter* [9]](#microstarter)
+[3. Conclusion](#conclusion)
 
-[*1.1.7* *Switch estratégias*
-[10]](#switch-estratégias)
+# Schematic
 
-[1.1.8 Alimentação secundária
-[12]](#alimentação-secundária)
+## Control Board
 
-[1.1.9 Medidor de bateria
-[12]](#medidor-de-bateria)
+### 5V Regulator
 
-[1.1.10 LED debug [15]](#led-debug)
-
-[1.1.11 Sensor Infravermelho
-[15]](#sensor-infravermelho)
-
-[1.1.12 Flag [17]](#flag)
-
-[1.1.13 Conector driver [17]](#conector-driver)
-
-[1.1.14 Driver [18]](#driver)
-
-[1.1.15 DRV8871 esquerdo [19]](#drv8871-esquerdo)
-
-[1.1.16 L9958SBTR [21]](#l9958sbtr)
-
-[*2.* *Layouts* [22]](#layouts)
-
-[2.1 *Layout* controle [23]](#layout-controle)
-
-[2.1.1 *Layout* fonte 5V com *switch*
-[23]](#layout-fonte-5v-com-switch)
-
-[2.1.2 *Layout* fonte 3.3V [25]](#layout-fonte-33v)
-
-[2.2 *Layout* Placas de apoio
-[27]](#layout-placas-de-apoio)
-
-[2.2.1 *Layout* Sensores infravermelhos
-[27]](#layout-sensores-infravermelhos)
-
-[2.2.2 *Layout* *microstarter*
-[28]](#layout-microstarter)
-
-[2.2.3 Layoult servo *flag*
-[29]](#layoult-servo-flag)
-
-[*2.2.4* *Layout STM loader*
-[30]](#layout-stm-loader)
-
-[2.2.5 *Layout switch* estratégias
-[31]](#layout-switch-estratégias)
-
-[2.2.6 *Layout* de Leds de debug e *bluetooth*
-[33]](#layout-de-leds-de-debug-e-bluetooth)
-
-[2.2.7 Conclusão do *layout* de controle
-[34]](#conclusão-do-layout-de-controle)
-
-[2.3 *Layout* Drivers [36]](#layout-drivers)
-
-[2.3.1 *Layout* driver DRV8871
-[36]](#layout-driver-drv8871)
-
-[2.3.2 Layoult L9958SBTR [37]](#layoult-l9958sbtr)
-
-[3. Conclusão [38]](#conclusão)
-
-# Esquemático
-
-## Placa de controle
-
-### Regulador 5V 
-
-Para fazer uma queda de tensão de 12,6V (tensão da bateria 3S) para 5V
-foi utilizada uma fonte linear com 2 reguladores de tensão
-(L7805CD2T-TR) em paralelo para garantir de não ter problemas com a
-dissipação de calor.
+To step down the voltage from 12.6V (3S battery voltage) to 5V, a linear power supply was used with two voltage regulators (L7805CD2T-TR) connected in parallel, in order to prevent overheating issues and improve heat dissipation.
 
 <p align= "center">
 <img src="./media/image3.png" style="width:5.82947in;height:4.88662in"
 alt="Diagram, schematic Description automatically generated" />
 <p align= "center">
-Figura 2 Fonte linear 5V
+Figure 2 – 5V Linear Regulator
 
-Além dos reguladores tensão também temos o conjunto do *switch*
-(JS202011SCQN) com o mosfet (FDS6576) para desligar a placa sem ser
-necessário desconectar a bateria, o mosfet também funciona como uma
-proteção contra inversão de polaridade, também é utilizado um Led de
-debug.
+In addition to the voltage regulators, there is also a switch (JS202011SCQN) and a MOSFET (FDS6576) that allow the board to be powered off without disconnecting the battery. The MOSFET also serves as reverse polarity protection. A debug LED is also included in the circuit.
 
-### Regulador 3.3V 
+### 3.3V Regulator
 
 <p align= "center">
 <img src="./media/image4.png" style="width:5.11613in;height:1.73583in"
 alt="A picture containing text, indoor, tiled Description automatically generated" />
 <p align= "center">
-Figura 3 Fonte linear 3.3V
+Figure 3 – 3.3V Linear Regulator
 
-Para redução de 5V para 3.3V foi utilizada uma fonte linear com o
-regulador de tensão (LDL1117S33R), foi inspirado no regulador de 3.3V da
-Raijin que já foi validado.
+To step down from 5V to 3.3V, a linear regulator (LDL1117S33R) was used. The design was inspired by the 3.3V regulator from the Raijin board, which had already been validated.
 
-### Circuito Lógico
+### Logic Circuit
 
 <p align= "center">
 <img src="./media/image5.png" style="width:7.34727in;height:4.15187in"
@@ -189,7 +134,7 @@ alt="Text, whiteboard Description automatically generated" />
 <p align= "center">
 Figura 6 STlink
 
-### Periféricos 
+### Peripherals 
 
 Agora por fim dos esquemáticos passamos as placas que ajudam as decisões
 que o robô necessita tomar.
@@ -258,7 +203,7 @@ Portanto, seu objetivo é receber o sinal enviado pelo controle do juiz
 para tomar uma decisão podendo ser inicializar, parar ou paridade (serve
 para verificar se o robô realmente está recebendo um sinal).
 
-###  *Switch estratégias*
+###  *Strategy Switch*
 
 <p align= "center">
 <img src="./media/image13.png" style="width:6.5in;height:3.1625in"
@@ -302,7 +247,7 @@ Figura 16 Esquemático switches de estratégias
 Uma placa bem simples que poderá ser conectada por *headers* com a placa
 de controle.
 
-### Alimentação secundária
+### Secondary Power Supply
 
 <p align= "center">
 <img src="./media/image18.png" style="width:5.40564in;height:2.52956in"
@@ -314,7 +259,7 @@ Utilizada para alimentar diretamente a placa de controle, sem
 necessidade de acoplar os drivers. A não precisa ser alimentado com 5V,
 pois ainda passará pelos reguladores de tensão.
 
-### Medidor de bateria
+### Battery Meter
 
 <p align= "center">
 <img src="./media/image19.png" style="width:3.57123in;height:2.75664in"
@@ -356,7 +301,7 @@ trocar o resistor de 3k3 ohms para 2k2 ohms para tensão de entrada no
 micro ser menor que 3.3V. E seria preciso alterar o cálculo da bateria
 na programação também.
 
-### LED debug
+### Debug LED
 
 <p align= "center">
 <img src="./media/image21.png" style="width:7.41145in;height:1.20921in"
@@ -368,7 +313,7 @@ Para facilitar a utilização e de codagem foram colocados 4 LED´s de
 debug, que ajuda aquele que estiver programando para solucionar
 possíveis erros de código.
 
-### Sensor Infravermelho
+### Infrared Sensor
 
 <p align= "center">
 <img src="./media/image22.png" style="width:6.43367in;height:2.52591in"
@@ -405,7 +350,7 @@ Figura 23 Servo para flag
 Servo é específico para robôs que usam *flag*, que tem como objetivo
 “enganar” o sensor do adversário.
 
-### Conector driver
+### Driver Connector
 
 <p align= "center">
 <img src="./media/image25.png" style="width:5.12005in;height:3.1322in"
@@ -440,7 +385,7 @@ permite uma grande flexibilidade nas escolhas da equipe.
 
 ### 
 
-### DRV8871 esquerdo
+### Left DRV8871
 
 <p align= "center">
 <img src="./media/image27.png" style="width:6.66596in;height:4.71175in"
@@ -523,9 +468,9 @@ alt="A picture containing text, electronics, circuit Description automatically g
 <p align= "center">
 Figura 35 Exemplo PCB da Kaminari
 
-## *Layout* controle
+## Control Board Layout
 
-### *Layout* fonte 5V com *switch*
+### 5V Power Supply Layout with Switch
 
 <p align= "center">
 <img src="./media/image36.png" style="width:6.01395in;height:2.68254in"
@@ -542,7 +487,7 @@ Figura 36 Switch fonte 5V linear
 O *switch* deve ficar na *top layer* para ser acessível para ligar e
 desligar a placa facilmente.
 
-### *Layout* fonte 5V
+### 5V Power Supply Layout
 
 <p align= "center">
 <img src="./media/image38.png" style="width:6.5in;height:2.91181in"
@@ -560,7 +505,7 @@ Figura 38 Fonte linear 5V
 sempre devemos colocar os componentes que são ligados entre si o mais
 próximo possível para evitar fazer muitas trilhas desnecessárias.
 
-### *Layout* fonte 3.3V
+### 3.3V Power Supply Layout
 
 <p align= "center">
 <img src="./media/image40.png"
@@ -593,9 +538,9 @@ Figura 42 Bottom Layer
 Nesse caso podemos ver que a *bottom layer* foi basicamente dedicada a
 parte da fonte e tentamos priorizar ao máximo o plano GND.
 
-## *Layout* Placas de apoio
+## Auxiliary Boards Layout
 
-### *Layout* Sensores infravermelhos
+### Infrared Sensors Layout
 
 <p align= "center">
 <img src="./media/image44.png" style="width:6.5in;height:2.26875in"
@@ -614,7 +559,7 @@ alt="Graphical user interface, application Description automatically generated" 
 <p align= "center">
 Figura 44 Trilhas sensores
 
-### *Layout* *microstarter*
+### Microstarter Layout
 
 <p align= "center">
 <img src="./media/image46.png" style="width:4.32212in;height:3.23651in"
@@ -628,7 +573,7 @@ alt="A screenshot of a game Description automatically generated with medium conf
 <p align= "center">
 Figura 46 Trilha microstarter
 
-### Layoult servo *flag*
+### Flag Servo Layout
 
 <p align= "center">
 <img src="./media/image44.png" style="width:6.02363in;height:2.10248in"
@@ -642,7 +587,7 @@ alt="Diagram, schematic Description automatically generated" />
 <p align= "center">
 Figura 48 Trilha servo flag
 
-### *Layout STM loader*
+### STM Loader Layout
 
 <p align= "center">
 <img src="./media/image49.png" style="width:6.04295in;height:2.60054in"
@@ -660,7 +605,7 @@ Levar em consideração que será preciso inserir um *STlink* que será
 conectado na entrada USB do seu computador. Então, deixá-lo em um canto
 da placa de fácil acesso.
 
-### *Layout switch* estratégias 
+### Strategy Switch Layout
 
 <p align= "center">
 <img src="./media/image51.png" style="width:4.54069in;height:3.19268in"
@@ -691,7 +636,7 @@ Figura 54 Trilha placa de switches de estratégias
 
 Um dos *headers* será substituído por um header fêmea para o encaixe.
 
-### *Layout* de Leds de debug e *bluetooth*
+### Debug LEDs and Bluetooth Layout
 
 <p align= "center">
 <img src="./media/image55.png" style="width:4.93253in;height:4.06658in"
@@ -703,7 +648,7 @@ O ideal seria o módulo *bluetooth* não ficar muito perto dos leds de
 debug para facilitar a visualização dos LED´s, porém devido a limitação
 de espaço foi necessário esse posicionamento.
 
-### Conclusão do *layout* de controle
+### Control Board Layout Summary
 
 <p align= "center">
 <img src="./media/image56.png" style="width:6.59712in;height:3.30349in"
@@ -734,7 +679,7 @@ dissipando melhor o calor. As trilhas de sinais devem ser o mais curtas
 possíveis e evitando ao máximo o uso de vias para trilhas, devido ao
 fato de ocupar o espaço de um possível plano sólido GND ou alimentação.
 
-## *Layout* Drivers
+## Driver Layouts
 
 > Devemos priorizar o plano VCC e GND e é importante se atentar no lado
 > em que o cabo flat está saindo e não colocar componentes em seu
@@ -744,7 +689,7 @@ fato de ocupar o espaço de um possível plano sólido GND ou alimentação.
 > no canto direito para ficar mais fácil de conectar o cabo flat e
 > ganhar mais espaço na placa.
 
-### *Layout* driver DRV8871
+### DRV8871 Driver Layout
 
 <p align= "center">
 <img src="./media/image59.png" style="width:2.15884in;height:3.72933in"
@@ -770,7 +715,7 @@ alt="A screenshot of a cell phone Description automatically generated with mediu
 <p align= "center">
 Figura 62 3D DRV8871 direito
 
-###  Layoult L9958SBTR 
+###  L9958SBTR Layout 
 
 <p align= "center">
 <img src="./media/image63.png" style="width:1.83015in;height:3.72408in"
@@ -796,7 +741,7 @@ alt="Graphical user interface Description automatically generated" />
 <p align= "center">
 Figura 66 3D L9958SBTR direito
 
-# Conclusão
+# Conclusion
 
 Obteve um resultado muito satisfatório, uma placa compacta e
 extremamente flexível. Resolveu o problema da placa anterior (Raijin)
