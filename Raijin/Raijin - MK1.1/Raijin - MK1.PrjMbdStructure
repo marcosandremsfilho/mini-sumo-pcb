@@ -1,0 +1,34 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=P4|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=P3|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=P2|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=P1|Source=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=F2|Source=..\Fonte 3,3V chaveada\Fonte 3,3V chaveada.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Fonte 3,3V chaveada\Fonte 3,3V chaveada.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=F1|Source=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=MP1|Source=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=F1|Source=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=P1|Source=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=MP1|Source=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=P4|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=P3|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Diagrama Funcional.MbsDoc|Kind=Multi-board Schematic Module|Designator=P2|Source=..\Sensor de Linha\Sensor de Linha.PrjPcb
+Record=SubProject|SourceDocument=Diagrama Funcional.MbsDoc|ProjectPath=..\Sensor de Linha\Sensor de Linha.PrjPcb

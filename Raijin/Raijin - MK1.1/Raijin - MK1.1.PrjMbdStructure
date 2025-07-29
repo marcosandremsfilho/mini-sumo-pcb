@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=placas_juntas.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=SubProject|SourceDocument=placas_juntas.MbsDoc|ProjectPath=..\Fonte Chaveada 5V\Fonte Chaveada 5V.PrjPcb
+Record=DiagramHierarchy|SourceDocument=placas_juntas.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=SubProject|SourceDocument=placas_juntas.MbsDoc|ProjectPath=..\Modulo Micro Starter\Modulo Micro Starter.PrjPcb
+Record=DiagramHierarchy|SourceDocument=placas_juntas.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=SubProject|SourceDocument=placas_juntas.MbsDoc|ProjectPath=..\Modulo Principal\Modulo Principal.PrjPcb
+Record=DiagramHierarchy|SourceDocument=placas_juntas.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=placas_juntas.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=DiagramHierarchy|SourceDocument=placas_juntas.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Modulo TB66\Modulo TB66.PrjPcb
+Record=SubProject|SourceDocument=placas_juntas.MbsDoc|ProjectPath=..\Modulo TB66\Modulo TB66.PrjPcb

@@ -1,0 +1,72 @@
+Removed Member From Class: ClassName=SensorInfra1 Member=C10
+Removed Member From Class: ClassName=SensorInfra2 Member=C10
+Removed Member From Class: ClassName=SensorInfra3 Member=C10
+Removed Member From Class: ClassName=SensorInfra4 Member=C10
+Removed Member From Class: ClassName=SensorInfra5 Member=C10
+Removed Member From Class: ClassName=SensorInfra7 Member=C10
+Removed Member From Class: ClassName=SensorInfra1 Member=C11
+Removed Member From Class: ClassName=SensorInfra2 Member=C11
+Removed Member From Class: ClassName=SensorInfra4 Member=C11
+Removed Member From Class: ClassName=SensorInfra5 Member=C11
+Removed Member From Class: ClassName=SensorInfra6 Member=C11
+Removed Member From Class: ClassName=SensorInfra7 Member=C11
+Removed Member From Class: ClassName=SensorInfra7 Member=R10
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra1
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra2
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra3
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra4
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra5
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra6
+Change Component Designator: OldDesignator=C10 NewDesignator=C10_SensorInfra7
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra1
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra2
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra3
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra4
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra5
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra6
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_SensorInfra7
+Change Component Designator: OldDesignator=Centro NewDesignator=J9_SensorInfra3
+Change Component Designator: OldDesignator=Centro_D NewDesignator=J9_SensorInfra2
+Change Component Designator: OldDesignator=Centro_E NewDesignator=J9_SensorInfra4
+Change Component Designator: OldDesignator=Direita NewDesignator=J9_SensorInfra1
+Change Component Designator: OldDesignator=ESP32 NewDesignator=J13
+Change Component Designator: OldDesignator=Esquerda NewDesignator=J9_SensorInfra5
+Change Component Designator: OldDesignator=FONTE CHAVEADA 5V NewDesignator=J14
+Change Component Designator: OldDesignator=FONTE CHAVEADA 5V NewDesignator=J15
+Change Component Designator: OldDesignator=MICROSTARTER NewDesignator=J5
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra1
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra2
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra3
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra4
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra5
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra6
+Change Component Designator: OldDesignator=R10 NewDesignator=R10_SensorInfra7
+Change Component Designator: OldDesignator=TB66 NewDesignator=J1
+Change Component Designator: OldDesignator=TB66 NewDesignator=J2
+Change Component Designator: OldDesignator=TB66 NewDesignator=J3
+Change Component Designator: OldDesignator=TB66 NewDesignator=J4
+Change Component Designator: OldDesignator=Tras_D NewDesignator=J9_SensorInfra7
+Change Component Designator: OldDesignator=Tras_E NewDesignator=J9_SensorInfra6
+Added Member To Class: ClassName=SensorInfra1 Member=Component C10_SensorInfra1 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra2 Member=Component C10_SensorInfra2 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra3 Member=Component C10_SensorInfra3 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra4 Member=Component C10_SensorInfra4 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra5 Member=Component C10_SensorInfra5 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra7 Member=Component C10_SensorInfra7 (C10) 4.7uF
+Added Member To Class: ClassName=SensorInfra1 Member=Component C11_SensorInfra1 (C11) 0.1uF
+Added Member To Class: ClassName=SensorInfra2 Member=Component C11_SensorInfra2 (C11) 0.1uF
+Added Member To Class: ClassName=SensorInfra4 Member=Component C11_SensorInfra4 (C11) 0.1uF
+Added Member To Class: ClassName=SensorInfra5 Member=Component C11_SensorInfra5 (C11) 0.1uF
+Added Member To Class: ClassName=SensorInfra6 Member=Component C11_SensorInfra6 (C11) 0.1uF
+Added Member To Class: ClassName=SensorInfra7 Member=Component C11_SensorInfra7 (C11) 0.1uF
+Added Member To Class: ClassName=Controle Member=Component J2 Female Header 2
+Added Member To Class: ClassName=Controle Member=Component J3 Female Header 2
+Added Member To Class: ClassName=Controle Member=Component J4 Female Header 2
+Added Member To Class: ClassName=Fonte Member=Component J15 Female Header 2
+Added Member To Class: ClassName=SensorInfra1 Member=Component R10_SensorInfra1 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra2 Member=Component R10_SensorInfra2 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra3 Member=Component R10_SensorInfra3 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra4 Member=Component R10_SensorInfra4 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra5 Member=Component R10_SensorInfra5 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra6 Member=Component R10_SensorInfra6 (R10) 56 R
+Added Member To Class: ClassName=SensorInfra7 Member=Component R10_SensorInfra7 (R10) 56 R
