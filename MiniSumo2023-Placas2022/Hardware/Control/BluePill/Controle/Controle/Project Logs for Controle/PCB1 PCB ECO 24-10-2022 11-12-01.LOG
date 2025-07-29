@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VSS Pin=S?-2
+Removed Pin From Net: NetName=VSS Pin=S?-2
+Removed Pin From Net: NetName=NetR8_1 Pin=S?-C
+Removed Pin From Net: NetName=NetR8_1 Pin=S?-C
+Change Component Footprint: Designator=S? Old Footprint=SOIC6_THRU_HOLE New Footprint=DPDT
+Change Component Comment : Designator=S? Old Comment=JS202011AQN New Comment=JS202011SCQN
+Added Pin To Net: NetName=NetR8_1 Pin=S?-A1
+Added Pin To Net: NetName=NetR8_1 Pin=S?-A1
+Added Pin To Net: NetName=VSS Pin=S?-A3
+Added Pin To Net: NetName=VSS Pin=S?-A3
+Added Room: Name=controleSTM
+Added Room: Name=FontesLineares

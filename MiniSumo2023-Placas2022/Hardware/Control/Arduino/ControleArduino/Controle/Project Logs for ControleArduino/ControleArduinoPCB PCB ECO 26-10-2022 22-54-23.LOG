@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=START Pin=J1-D9
+Removed Pin From Net: NetName=LED2 Pin=J1-D13
+Added Pin To Net: NetName=LED2 Pin=J1-D9
+Added Pin To Net: NetName=START Pin=J1-D13

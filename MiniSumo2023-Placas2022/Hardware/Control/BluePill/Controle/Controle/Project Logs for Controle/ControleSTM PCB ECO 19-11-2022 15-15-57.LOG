@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=START Pin=IC1-A1
+Removed Pin From Net: NetName=DIST4 Pin=IC1-B0
+Removed Pin From Net: NetName=DIST5 Pin=IC1-B1
+Added Pin To Net: NetName=DIST4 Pin=IC1-B3
+Added Pin To Net: NetName=DIST5 Pin=IC1-B4
+Added Pin To Net: NetName=START Pin=IC1-B8

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=M1PWM Pin=IC1-56
+Removed Pin From Net: NetName=M1DIR Pin=IC1-57
+Removed Pin From Net: NetName=M2PWM Pin=IC1-58
+Removed Pin From Net: NetName=M2DIR Pin=IC1-59
+Removed Pin From Net: NetName=VSS Pin=J2-
+Added Pin To Net: NetName=M2PWM Pin=IC1-56
+Added Pin To Net: NetName=M2DIR Pin=IC1-57
+Added Pin To Net: NetName=M1PWM Pin=IC1-58
+Added Pin To Net: NetName=M1DIR Pin=IC1-59
+Add Pin To Net: Unknown Pin: Pin J2-GND
+Added Member To Class: ClassName=FontesLineares Member=Component C4 4.7 uF
+Added Member To Class: ClassName=controleSTM Member=Component Header Direito 505278-1033

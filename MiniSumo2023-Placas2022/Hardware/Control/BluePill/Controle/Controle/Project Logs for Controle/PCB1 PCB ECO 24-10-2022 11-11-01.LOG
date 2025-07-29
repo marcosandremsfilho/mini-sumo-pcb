@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VSS Pin=S1-2
+Removed Pin From Net: NetName=VSS Pin=S1-2
+Removed Pin From Net: NetName=NetR8_1 Pin=S1-C
+Removed Pin From Net: NetName=NetR8_1 Pin=S1-C
+Removed Member From Class: ClassName=FontesLineares Member=S1
+Added Component: Designator=S?(SOIC6_THRU_HOLE)
+Add component (AddParameter): Name = "Category"; Value = "Slide Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011CQN?qs=%2Fha2pyFadujEk0HYYCwwdCngFEJLgpLwbgeFG0CLXqejQrlcBWDxEg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "30/10/2021 23:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Slide Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011AQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,450, 25=0,421, 100=0,357 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "611-JS202011AQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=S?-2
+Added Pin To Net: NetName=VSS Pin=S?-2
+Added Pin To Net: NetName=NetR8_1 Pin=S?-C
+Added Pin To Net: NetName=NetR8_1 Pin=S?-C
+Added Member To Class: ClassName=FontesLineares Member=Component S? JS202011AQN

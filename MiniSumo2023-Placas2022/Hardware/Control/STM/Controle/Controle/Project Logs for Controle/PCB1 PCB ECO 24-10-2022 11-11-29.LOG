@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VSS Pin=S?-2
+Removed Pin From Net: NetName=VSS Pin=S?-2
+Removed Pin From Net: NetName=NetR8_1 Pin=S?-C
+Removed Pin From Net: NetName=NetR8_1 Pin=S?-C
+Change Component Footprint: Designator=S? Old Footprint=SOIC6_THRU_HOLE New Footprint=DPDT
+Change Component Comment : Designator=S? Old Comment=JS202011AQN New Comment=JS202011SCQN
+Change component parameters: Designator = "S?" ("S?"); Footprint = "SOIC6_THRU_HOLE"; UniqueID = "\TWWXKUZH" ("\TWWXKUZH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR8_1 Pin=S?-A1
+Added Pin To Net: NetName=NetR8_1 Pin=S?-A1
+Added Pin To Net: NetName=VSS Pin=S?-A3
+Added Pin To Net: NetName=VSS Pin=S?-A3
+Added Room: Name=controleSTM
+Added Room: Name=FontesLineares

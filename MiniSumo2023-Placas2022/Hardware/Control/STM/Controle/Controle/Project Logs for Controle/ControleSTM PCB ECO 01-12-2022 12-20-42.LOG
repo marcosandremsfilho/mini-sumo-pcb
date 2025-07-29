@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ANALOG1 Pin=J12-PIN3
+Removed Pin From Net: NetName=5V Pin=R12-2
+Change Net Name : Old Net Name=ANALOG1 New Net Name=AnalogSignal
+Added Pin To Net: NetName=ANALOG1 Pin=J12-PIN3
+Added Pin To Net: NetName=ANALOG1 Pin=R12-2
+Added Net: Name=ANALOG1

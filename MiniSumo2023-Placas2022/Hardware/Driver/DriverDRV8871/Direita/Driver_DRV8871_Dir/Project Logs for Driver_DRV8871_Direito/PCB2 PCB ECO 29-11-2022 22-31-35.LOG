@@ -1,0 +1,30 @@
+Added Component: Designator=M1(PAD_MOTOR_MINI)
+Add component (AddParameter): Name = "Cable AWG"; Value = "20 / 18 (AWG)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Pads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recomended Category"; Value = "Mini Sumô"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3.5 x 3.5 (mm)"; VariantName = "[No Variations]"
+Added Component: Designator=M2(PAD_MOTOR_MINI)
+Add component (AddParameter): Name = "Cable AWG"; Value = "20 / 18 (AWG)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Pads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recomended Category"; Value = "Mini Sumô"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3.5 x 3.5 (mm)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT1 Pin=M1-M
+Added Pin To Net: NetName=OUT2 Pin=M2-M
+Added Member To Class: ClassName=Sheet2 Member=Component M1 Motor Pad
+Added Member To Class: ClassName=Sheet2 Member=Component M2 Motor Pad

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=FLAGSIGNAL Pin=IC1-62
+Added Pin To Net: NetName=FLAGSIGNAL Pin=IC1-17

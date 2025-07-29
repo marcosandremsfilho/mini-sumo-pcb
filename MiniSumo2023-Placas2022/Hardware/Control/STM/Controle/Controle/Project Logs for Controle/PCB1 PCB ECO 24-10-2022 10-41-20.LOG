@@ -1,0 +1,653 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/281/GCM21BR71E334KA37_01-1968656.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/Murata-Electronics/GCM21BR71E334KA37K?qs=N3Kl9KD794Tg%2FXM5q2uFQQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.murata.com/en-us/products/productdetail?partno=GCM21BR71E334KA37%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dieletric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "28/06/2021 00:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Eletronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 C ~ 125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM21BR71E334KA37K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1= 0,57, 10= 0,398, 100= 0,239 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2,00 L x 1,25 W x 1,25 H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GCM21BR71E334KA7K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "25 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/KEMET/C0805C104M3RACTU?qs=jbCUrP3sAgSIdMuvv9W4Pg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dieletric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "26/06/2021 20:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Guilherme"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 C ~ 125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805(2012 mestric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C104M3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,13 10=0,064 100=0,037 1000=0,025 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "1.25 mm W x 2 mm L x 0.78 mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104M3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "25 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dieletric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/281/1/GRM219R61E475KA73_01A-1986363.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/Murata-Electronics/GRM219R61E475KA73D?qs=%2Fha2pyFadui1540apPxqrcvNL2Od6%2FE9q78FE8iyERiL9ZO4NhnlONCgyc%2FC2rEQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dieletric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "25/08/22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805(2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM219R61E475KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,28 10=0,193 100=0,098 1000=0,059 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2 mm L x 1.25 mm W x 0.85 mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM219R61E475KA73D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "25 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=Header Direito(FPC_CON)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/276/2/5052781033_FFC_FPC_CONNECTORS-772019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/Molex/505278-1033?qs=c8NFF48pVsDStgrQCBOSTg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Mating"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "FFC/FPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "24/04/2021 00:25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "505278-1033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,51000, 10=0,42900, 100=0,33400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-505278-1033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=Header Esquerdo(FPC_CON)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/276/2/5052781033_FFC_FPC_CONNECTORS-772019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/Molex/505278-1033?qs=c8NFF48pVsDStgrQCBOSTg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Mating"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "FFC/FPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Liquid Crystal Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "24/04/2021 00:25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Mateus(Dimas)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "505278-1033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,51000, 10=0,42900, 100=0,33400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-505278-1033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(LQFP-64)
+Add component (AddParameter): Name = "Category"; Value = "ARM Microcontrollers - MCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/STMicroelectronics/STM32F405RGT6?qs=Z8%252BeY1k3TIKgj7QWsYGpQw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/389/dm00037051-1797298.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connectivity"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ARM Cortex M0+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "22/08/21 15:09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Microcrontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ethernet Channels"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I2C Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of SPI Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of UART/USART Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C to 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32F405RGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "CAN, I2C, SDIO, I2S / SPI, UART / USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1 = 12,95, 10 = 11,91,  100 = 11,42, 500 = 8,95 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Size"; Value = "1024kB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Type"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "192k B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "STM32F405RG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "168MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STM32F405RGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "1.8 V to 3.6 V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(BLUETOOTH)
+Add component (AddParameter): Name = "Bluetooth Mode"; Value = "Slave Only"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2,4 GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Range"; Value = "10m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Serial Transmission Rate"; Value = "9600 bps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modulation"; Value = "GFSK (Gaussian Frequency Shift Keying)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "3,6 / 6 (V)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recomended Operating Configuration"; Value = "5V @ 50mA"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J4(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J5(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J6(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J7(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J8(STM BOOTLOADER)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=J9(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J10(MALE HEADER 6)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "02/10/2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Persont that did the Last Update Footprint"; Value = "Cage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/308/1/FDS6576_D-1808687.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/onsemi-Fairchild/FDS6576?qs=FOlmdCx%252BAA1N14vq5QZP7Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @25°C"; Value = "-11A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vds)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drive Voltage (Max Rds On, Min Rds On)"; Value = "-2.5V ~4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) (Max) @ Vgs"; Value = "60nC@-4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @Vds"; Value = "4044pF@-10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 °C ~150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "2.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=1.34, 10=1.20, 100=0.932, 500=0.77, 1000=0.608 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "23mOhms @ -11A, -4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "17 / 79 (ns)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-FDS6576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) Id"; Value = "-1.5V@-250uA"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESISTOR_0603)
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Yageo/RC0603JR-0710KL?qs=ksOUTF%2FWcd8D6T22BJkQ7g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datsheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/447/Yageo_03_18_2021_PYu_RC_Group_51_RoHS_L_11-2199992.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "21/06/21 14:15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Dalarme"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55ºC ~ 155ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW (1/10 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,10, 10=0,015, 100=0,005 1000=0,0040 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Fixo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "1.6 mm L x  0.8 mm W x  0.45 mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESISTOR_0603)
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/Yageo/RC0603JR-0710KL?qs=ksOUTF%2FWcd8D6T22BJkQ7g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datsheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/447/Yageo_03_18_2021_PYu_RC_Group_51_RoHS_L_11-2199992.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "21/06/21 14:15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Dalarme"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Marcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "- 55ºC ~ 155ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW (1/10 W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,10, 10=0,015, 100=0,005 1000=0,0040 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Fixo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "1.6 mm L x  0.8 mm W x  0.45 mm H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100 PPM / C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SOIC6_THRU_HOLE)
+Add component (AddParameter): Name = "Category"; Value = "Slide Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011CQN?qs=%2Fha2pyFadujEk0HYYCwwdCngFEJLgpLwbgeFG0CLXqejQrlcBWDxEg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = "Follow-Final"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "30/10/2021 23:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Slide Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011AQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,450, 25=0,421, 100=0,357 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "611-JS202011AQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6VDC"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-223-4)
+Add component (AddParameter): Name = "Category"; Value = "Linear Voltage Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/STMicroelectronics/LDL1117S33R?qs=%2Fha2pyFadugA91l4ky%2FRZ5SN3GrMJ6YI2MUHTqmRDLfkBVrFdA%252BW6Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/389/dm00366442-1799212.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "1.2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = "250 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "23/06/21 10:22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Pierre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Voltage Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "Internally limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/ Case"; Value = "SOT-223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LDL1117S33R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "Internally limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1= 0.46000, 10= 0.34000, 100= 0.22900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-LDL1117S33R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "600mV (1.2 A)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "3.3 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=Header Direito-5
+Added Pin To Net: NetName=5V Pin=Header Esquerdo-6
+Added Pin To Net: NetName=5V Pin=J1-PIN1
+Added Pin To Net: NetName=5V Pin=J2-VCC
+Added Pin To Net: NetName=5V Pin=J3-PIN1
+Added Pin To Net: NetName=5V Pin=J4-PIN1
+Added Pin To Net: NetName=5V Pin=J5-PIN1
+Added Pin To Net: NetName=5V Pin=J6-PIN1
+Added Pin To Net: NetName=5V Pin=J7-PIN1
+Added Pin To Net: NetName=5V Pin=J9-PIN2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Net: Name=5V
+Added Pin To Net: NetName=BAT Pin=Header Direito-8
+Added Pin To Net: NetName=BAT Pin=Header Direito-9
+Added Pin To Net: NetName=BAT Pin=Header Direito-10
+Added Pin To Net: NetName=BAT Pin=Header Esquerdo-1
+Added Pin To Net: NetName=BAT Pin=Header Esquerdo-2
+Added Pin To Net: NetName=BAT Pin=Header Esquerdo-3
+Added Pin To Net: NetName=BAT Pin=Q1-S
+Added Pin To Net: NetName=BAT Pin=Q1-S
+Added Pin To Net: NetName=BAT Pin=Q1-S
+Added Pin To Net: NetName=BAT Pin=R9-1
+Added Net: Name=BAT
+Added Pin To Net: NetName=BLUETOOTHRX Pin=IC1-42
+Added Pin To Net: NetName=BLUETOOTHRX Pin=J2-RX
+Added Net: Name=BLUETOOTHRX
+Added Pin To Net: NetName=BLUETOOTHTX Pin=IC1-43
+Added Pin To Net: NetName=BLUETOOTHTX Pin=J2-TX
+Added Net: Name=BLUETOOTHTX
+Added Pin To Net: NetName=BOOT Pin=IC1-60
+Added Net: Name=BOOT
+Added Pin To Net: NetName=DIST1 Pin=IC1-55
+Added Pin To Net: NetName=DIST1 Pin=J3-PIN3
+Added Net: Name=DIST1
+Added Pin To Net: NetName=DIST2 Pin=IC1-54
+Added Pin To Net: NetName=DIST2 Pin=J4-PIN3
+Added Net: Name=DIST2
+Added Pin To Net: NetName=DIST3 Pin=IC1-53
+Added Pin To Net: NetName=DIST3 Pin=J5-PIN3
+Added Net: Name=DIST3
+Added Pin To Net: NetName=DIST4 Pin=IC1-52
+Added Pin To Net: NetName=DIST4 Pin=J6-PIN3
+Added Net: Name=DIST4
+Added Pin To Net: NetName=DIST5 Pin=IC1-51
+Added Pin To Net: NetName=DIST5 Pin=J7-PIN3
+Added Net: Name=DIST5
+Added Pin To Net: NetName=FLAGSIGNAL Pin=IC1-62
+Added Pin To Net: NetName=FLAGSIGNAL Pin=J9-PIN1
+Added Net: Name=FLAGSIGNAL
+Added Pin To Net: NetName=LED1 Pin=IC1-24
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=IC1-25
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=IC1-26
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=IC1-27
+Added Net: Name=LED4
+Added Pin To Net: NetName=M1DIR Pin=Header Esquerdo-5
+Added Pin To Net: NetName=M1DIR Pin=IC1-57
+Added Net: Name=M1DIR
+Added Pin To Net: NetName=M1PWM Pin=Header Esquerdo-4
+Added Pin To Net: NetName=M1PWM Pin=IC1-56
+Added Net: Name=M1PWM
+Added Pin To Net: NetName=M2DIR Pin=Header Direito-6
+Added Pin To Net: NetName=M2DIR Pin=IC1-59
+Added Net: Name=M2DIR
+Added Pin To Net: NetName=M2PWM Pin=Header Direito-7
+Added Pin To Net: NetName=M2PWM Pin=IC1-58
+Added Net: Name=M2PWM
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-D
+Added Net: Name=NetC1_2
+Added Net: Name=NetD1_A
+Added Net: Name=NetD2_A
+Added Net: Name=NetD3_C
+Added Net: Name=NetD4_C
+Added Net: Name=NetD5_C
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R8-2
+Added Pin To Net: NetName=NetQ1_G Pin=R9-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=S1-C
+Added Pin To Net: NetName=NetR8_1 Pin=S1-C
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=POS1 Pin=IC1-14
+Added Pin To Net: NetName=POS1 Pin=J10-PIN2
+Added Net: Name=POS1
+Added Pin To Net: NetName=POS2 Pin=IC1-15
+Added Pin To Net: NetName=POS2 Pin=J10-PIN3
+Added Net: Name=POS2
+Added Pin To Net: NetName=POS3 Pin=IC1-16
+Added Pin To Net: NetName=POS3 Pin=J10-PIN4
+Added Net: Name=POS3
+Added Pin To Net: NetName=POS4 Pin=IC1-17
+Added Pin To Net: NetName=POS4 Pin=J10-PIN5
+Added Net: Name=POS4
+Added Pin To Net: NetName=POS5 Pin=IC1-20
+Added Pin To Net: NetName=POS5 Pin=J10-PIN6
+Added Net: Name=POS5
+Added Pin To Net: NetName=RESET Pin=IC1-7
+Added Pin To Net: NetName=RESET Pin=J8-RESET
+Added Net: Name=RESET
+Added Pin To Net: NetName=START Pin=IC1-61
+Added Pin To Net: NetName=START Pin=J1-PIN3
+Added Net: Name=START
+Added Pin To Net: NetName=SWCLK Pin=IC1-49
+Added Pin To Net: NetName=SWCLK Pin=J8-CLK
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=IC1-46
+Added Pin To Net: NetName=SWDIO Pin=J8-DIO
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VCAP 1 Pin=IC1-31
+Added Net: Name=VCAP 1
+Added Pin To Net: NetName=VCAP 2 Pin=IC1-47
+Added Net: Name=VCAP 2
+Added Pin To Net: NetName=VDD Pin=C4-2
+Added Pin To Net: NetName=VDD Pin=IC1-1
+Added Pin To Net: NetName=VDD Pin=IC1-13
+Added Pin To Net: NetName=VDD Pin=IC1-19
+Added Pin To Net: NetName=VDD Pin=IC1-32
+Added Pin To Net: NetName=VDD Pin=IC1-48
+Added Pin To Net: NetName=VDD Pin=IC1-64
+Added Pin To Net: NetName=VDD Pin=J8-VCC
+Added Pin To Net: NetName=VDD Pin=J10-PIN1
+Added Pin To Net: NetName=VDD Pin=U2-2
+Added Pin To Net: NetName=VDD Pin=U2-2
+Added Net: Name=VDD
+Added Pin To Net: NetName=VSS Pin=C1-1
+Added Pin To Net: NetName=VSS Pin=C2-1
+Added Pin To Net: NetName=VSS Pin=C3-1
+Added Pin To Net: NetName=VSS Pin=C4-1
+Added Pin To Net: NetName=VSS Pin=Header Direito-1
+Added Pin To Net: NetName=VSS Pin=Header Direito-2
+Added Pin To Net: NetName=VSS Pin=Header Direito-3
+Added Pin To Net: NetName=VSS Pin=Header Esquerdo-8
+Added Pin To Net: NetName=VSS Pin=Header Esquerdo-9
+Added Pin To Net: NetName=VSS Pin=Header Esquerdo-10
+Added Pin To Net: NetName=VSS Pin=IC1-12
+Added Pin To Net: NetName=VSS Pin=IC1-18
+Added Pin To Net: NetName=VSS Pin=IC1-63
+Added Pin To Net: NetName=VSS Pin=J1-PIN2
+Added Pin To Net: NetName=VSS Pin=J2-GND
+Added Pin To Net: NetName=VSS Pin=J3-PIN2
+Added Pin To Net: NetName=VSS Pin=J4-PIN2
+Added Pin To Net: NetName=VSS Pin=J5-PIN2
+Added Pin To Net: NetName=VSS Pin=J6-PIN2
+Added Pin To Net: NetName=VSS Pin=J7-PIN2
+Added Pin To Net: NetName=VSS Pin=J8-GND
+Added Pin To Net: NetName=VSS Pin=J9-PIN3
+Added Pin To Net: NetName=VSS Pin=S1-2
+Added Pin To Net: NetName=VSS Pin=S1-2
+Added Pin To Net: NetName=VSS Pin=U2-1
+Added Net: Name=VSS
+Added Class: Name=controleSTM
+Added Class: Name=FontesLineares
+Added Room: Name=controleSTM
+Added Room: Name=FontesLineares

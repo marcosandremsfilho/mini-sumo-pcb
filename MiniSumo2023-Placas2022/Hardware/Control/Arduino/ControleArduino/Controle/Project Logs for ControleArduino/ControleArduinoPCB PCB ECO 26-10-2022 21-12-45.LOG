@@ -1,0 +1,22 @@
+Added Component: Designator=J1(ARDUINO NANO)
+Added Pin To Net: NetName=DIST5 Pin=J1-A0
+Added Pin To Net: NetName=DIST4 Pin=J1-A1
+Added Pin To Net: NetName=FLAGSIGNAL Pin=J1-A2
+Added Pin To Net: NetName=BLUETOOTHRX Pin=J1-D0
+Added Pin To Net: NetName=BLUETOOTHTX Pin=J1-D1
+Added Pin To Net: NetName=DIST1 Pin=J1-D2
+Added Pin To Net: NetName=DIST2 Pin=J1-D3
+Added Pin To Net: NetName=DIST3 Pin=J1-D4
+Added Pin To Net: NetName=M1DIR Pin=J1-D5
+Added Pin To Net: NetName=M1PWM Pin=J1-D6
+Added Pin To Net: NetName=LED3 Pin=J1-D7
+Added Pin To Net: NetName=LED4 Pin=J1-D8
+Added Pin To Net: NetName=START Pin=J1-D9
+Added Pin To Net: NetName=M2PWM Pin=J1-D10
+Added Pin To Net: NetName=M2DIR Pin=J1-D11
+Added Pin To Net: NetName=LED1 Pin=J1-D12
+Added Pin To Net: NetName=LED2 Pin=J1-D13
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Pin To Net: NetName=5V Pin=J1-Vin
+Added Member To Class: ClassName=controleArduino Member=Component J1 ARDUINI NANO HEADER

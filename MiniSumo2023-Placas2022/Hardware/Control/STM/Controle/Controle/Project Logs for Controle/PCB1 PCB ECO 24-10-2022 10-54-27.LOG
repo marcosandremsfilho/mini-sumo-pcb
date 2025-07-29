@@ -1,0 +1,38 @@
+Added Component: Designator=U?(D2PAK)
+Add component (AddParameter): Name = "Category"; Value = "Linear Voltage Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/STMicroelectronics/L7805CD2T-TR?qs=%2Fha2pyFadujE9KQ1BxQHaLKqcK8XYkwQA8UfL%2FIGb8dfQq%2Fq%2FT%2Fjqg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://br.mouser.com/datasheet/2/389/cd00000444-1795274.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Iq)"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "25/06/21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nícolas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Voltage Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "Internally Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40~125 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/ Case"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "L7805CD2T-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "Internally Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1=0,93, 10=0,83, 100=0,79 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-L7805CD2T-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Dropout (Max)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "5.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U?-1
+Added Pin To Net: NetName=VSS Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-3
+Added Member To Class: ClassName=FontesLineares Member=Component U? L7805CD2T-TR
+Added Room: Name=controleSTM
+Added Room: Name=FontesLineares

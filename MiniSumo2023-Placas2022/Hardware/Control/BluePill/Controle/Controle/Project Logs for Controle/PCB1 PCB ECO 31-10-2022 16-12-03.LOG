@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=M1_Aux Pin=IC1-11
+Added Pin To Net: NetName=M1_Aux Pin=IC1-10

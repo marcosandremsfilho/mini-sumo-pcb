@@ -1,0 +1,133 @@
+Add Component: Footprint Not Found MALE HEADER 6
+Added Component: Designator=S1(DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=S2(DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=S3(DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=S4(DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=S5(DPDT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://br.mouser.com/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/60/js-1841892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = "15/06/2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Nikaum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diversos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature(max - min)"; Value = "-20~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JS202011SCQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "ON - ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "30 VDC"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-PIN1
+Add Pin To Net: Unknown Pin: Pin J1-PIN2
+Add Pin To Net: Unknown Pin: Pin J1-PIN3
+Add Pin To Net: Unknown Pin: Pin J1-PIN4
+Add Pin To Net: Unknown Pin: Pin J1-PIN5
+Add Pin To Net: Unknown Pin: Pin J1-PIN6
+Added Pin To Net: NetName=POS1 Pin=S1-A1
+Added Pin To Net: NetName=3.3V Pin=S1-A2
+Added Pin To Net: NetName=POS2 Pin=S2-A1
+Added Pin To Net: NetName=3.3V Pin=S2-A2
+Added Pin To Net: NetName=POS3 Pin=S3-A1
+Added Pin To Net: NetName=3.3V Pin=S3-A2
+Added Pin To Net: NetName=POS4 Pin=S4-A1
+Added Pin To Net: NetName=3.3V Pin=S4-A2
+Added Pin To Net: NetName=POS5 Pin=S5-A1
+Added Pin To Net: NetName=3.3V Pin=S5-A2
+Add Class Member: Failed to add class member : Component J1 Male Header 6
+Added Member To Class: ClassName=SwitchModule Member=Component S1 JS202011SCQN
+Added Member To Class: ClassName=SwitchModule Member=Component S2 JS202011SCQN
+Added Member To Class: ClassName=SwitchModule Member=Component S3 JS202011SCQN
+Added Member To Class: ClassName=SwitchModule Member=Component S4 JS202011SCQN
+Added Member To Class: ClassName=SwitchModule Member=Component S5 JS202011SCQN

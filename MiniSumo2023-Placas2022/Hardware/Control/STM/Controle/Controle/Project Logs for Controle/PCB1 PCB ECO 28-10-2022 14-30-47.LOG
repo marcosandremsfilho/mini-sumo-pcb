@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=M1PWM Pin=IC1-58
+Removed Pin From Net: NetName=M1DIR Pin=IC1-59
+Added Pin To Net: NetName=M1DIR Pin=IC1-58
+Added Pin To Net: NetName=M1PWM Pin=IC1-59
+Add Pin To Net: Unknown Pin: Pin J2-GND

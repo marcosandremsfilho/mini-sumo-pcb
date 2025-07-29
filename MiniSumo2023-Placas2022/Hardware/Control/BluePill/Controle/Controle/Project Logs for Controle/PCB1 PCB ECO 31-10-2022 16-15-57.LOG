@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT Pin=Header Direito-8
+Added Pin To Net: NetName=M2_Aux Pin=Header Direito-8
+Added Pin To Net: NetName=M2_Aux Pin=IC1-44
+Added Net: Name=M2_Aux

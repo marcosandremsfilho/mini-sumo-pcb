@@ -1,0 +1,18 @@
+Added Component: Designator=J?(FEMALE HEADER 3)
+Add component (AddParameter): Name = "Library Control - Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Last Update"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Footprin"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Control - Person that did the Last Update in Schematic"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J?-PIN1
+Added Pin To Net: NetName=VSS Pin=J?-PIN2
+Added Pin To Net: NetName=ANALOG1 Pin=IC1-8
+Added Pin To Net: NetName=ANALOG1 Pin=J?-PIN3
+Added Net: Name=ANALOG1
+Added Member To Class: ClassName=controleSTM Member=Component J? Female Header 3

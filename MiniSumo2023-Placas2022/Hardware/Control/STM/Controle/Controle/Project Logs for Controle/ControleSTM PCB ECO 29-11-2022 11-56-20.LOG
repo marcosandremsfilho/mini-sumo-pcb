@@ -1,0 +1,230 @@
+Removed Pin From Net: NetName=VSS Pin=D1-C
+Removed Pin From Net: NetName=VSS Pin=D2-C
+Removed Pin From Net: NetName=VDD Pin=D5-A
+Removed Pin From Net: NetName=VDD Pin=D6-A
+Removed Pin From Net: NetName=NetD3_C Pin=R3-1
+Removed Pin From Net: NetName=NetD4_C Pin=R4-1
+Removed Member From Class: ClassName=FontesLineares Member=D1
+Removed Member From Class: ClassName=FontesLineares Member=D2
+Removed Member From Class: ClassName=controleSTM Member=D5
+Removed Member From Class: ClassName=controleSTM Member=D6
+Change Component Footprint: Designator=D1 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Footprint: Designator=D2 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Footprint: Designator=D3 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Footprint: Designator=D4 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Footprint: Designator=D5 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Footprint: Designator=D6 Old Footprint=LED_0603 New Footprint=DIODO_2-SMD-3215
+Change Component Comment : Designator=D1 Old Comment=Green New Comment=Blue
+Change Component Comment : Designator=D2 Old Comment=Green New Comment=Blue
+Change Component Comment : Designator=D3 Old Comment=Green New Comment=Blue
+Change Component Comment : Designator=D4 Old Comment=Green New Comment=Blue
+Change Component Comment : Designator=D5 Old Comment=Green New Comment=Blue
+Change Component Comment : Designator=D6 Old Comment=Green New Comment=Blue
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_0603"; UniqueID = "\SMSHBMXE" ("\SMSHBMXE")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_0603"; UniqueID = "\NMTUKPCV" ("\NMTUKPCV")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_0603"; UniqueID = "\NEUTQSKT" ("\NEUTQSKT")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED_0603"; UniqueID = "\EFFRZQTN" ("\EFFRZQTN")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED_0603"; UniqueID = "\ORCLDFGG" ("\ORCLDFGG")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LED_0603"; UniqueID = "\DGMFIDAQ" ("\DGMFIDAQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Standard LEDs - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Everlight/EAST3215BA5?qs=Cqqh%252BS766wnzp9nQVj5A4g=="; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.com/datasheet/2/143/EAST3215BA5-1154292.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Forward (If)"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Footprint"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Checked Schematic"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Project that Used"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Last Update"; Value = "13/06/2021 12:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Footprint"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that Checked Schematic"; Value = "Lucas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Footprint"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Control - Person that did the Last Update Schematic"; Value = "Stéfany (Ster)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Library Ref"; Value = "Diodo/Led"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "45 mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "75 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "- 40 °C ~ 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "3215"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "1 = 0,3800, 10 = 0,2050, 100 = 0.1080 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "638-EAST3215BA5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "3,30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "468 nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=D1-A
+Added Pin To Net: NetName=VDD Pin=D2-A
+Added Pin To Net: NetName=VSS Pin=D5-C
+Added Pin To Net: NetName=VSS Pin=D6-C
+Added Pin To Net: NetName=NetD3_C Pin=R5-1
+Added Pin To Net: NetName=NetD4_C Pin=R7-1
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=R3-1
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=R4-1
+Added Net: Name=NetD2_C
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R1-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R2-1
+Added Net: Name=NetD6_A
+Added Member To Class: ClassName=controleSTM Member=Component D1 Blue
+Added Member To Class: ClassName=controleSTM Member=Component D2 Blue
+Added Member To Class: ClassName=FontesLineares Member=Component D5 Blue
+Added Member To Class: ClassName=FontesLineares Member=Component D6 Blue

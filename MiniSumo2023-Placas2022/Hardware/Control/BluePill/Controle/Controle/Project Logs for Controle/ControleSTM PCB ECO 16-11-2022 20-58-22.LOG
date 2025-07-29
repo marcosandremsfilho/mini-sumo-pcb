@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=IC2-1
+Removed Pin From Net: NetName=EscolhaEstrategia Pin=IC2-2
+Added Component: Designator=IC?(BUTTON - TH - 2PIN)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gravitech.us/mipubusw2qt4.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-90-BK-100-SCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EscolhaEstrategia Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=DefineEstrategia Pin=IC1-B9
+Added Pin To Net: NetName=DefineEstrategia Pin=IC?-1
+Added Net: Name=DefineEstrategia
+Added Member To Class: ClassName=controleSTM Member=Component IC? Push buttom TH - 2 pin

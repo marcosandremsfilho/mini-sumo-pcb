@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DIST3 Pin=IC1-A4
+Removed Pin From Net: NetName=DIST2 Pin=IC1-A5
+Removed Pin From Net: NetName=DIST1 Pin=IC1-B12
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Added Pin To Net: NetName=DIST2 Pin=IC1-B10
+Added Pin To Net: NetName=DIST1 Pin=IC1-B11
+Added Pin To Net: NetName=DIST3 Pin=IC1-B12

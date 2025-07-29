@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MedidorBateria Pin=IC1-8
+Added Pin To Net: NetName=MedidorBateria Pin=IC1-9

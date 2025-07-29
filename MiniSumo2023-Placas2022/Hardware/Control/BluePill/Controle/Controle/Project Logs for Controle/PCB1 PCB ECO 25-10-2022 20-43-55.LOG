@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=POS5 Pin=IC1-17
+Removed Pin From Net: NetName=POS4 Pin=IC1-20
+Removed Pin From Net: NetName=POS3 Pin=IC1-21
+Removed Pin From Net: NetName=POS2 Pin=IC1-22
+Removed Pin From Net: NetName=POS1 Pin=IC1-23
+Added Pin To Net: NetName=POS5 Pin=IC1-20
+Added Pin To Net: NetName=POS4 Pin=IC1-21
+Added Pin To Net: NetName=POS3 Pin=IC1-22
+Added Pin To Net: NetName=POS2 Pin=IC1-23
+Added Pin To Net: NetName=POS1 Pin=IC1-24
