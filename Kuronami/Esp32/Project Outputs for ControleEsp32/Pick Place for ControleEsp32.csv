@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\ericl\OneDrive\Área de Trabalho\Sumo\Hardware\MiniSumo2023-Placas2022\MiniSumo2023-Placas2022\Hardware\Control\Esp32\Esp32\Project Outputs for ControleEsp32\Pick Place for ControleEsp32.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/11/24
+Time:       14:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R2","3.3kR","TopLayer","RESISTOR_0603","3199.809","2400.000","90","RES SMD 3.3K OHM 1% 1/10W 0603"
+"R1","10kR","BottomLayer","RESISTOR_0603","3250.000","2635.000","0","RES SMD 10K OHM 5% 1/10W 0603"
+"J7","Female Header 3","TopLayer","FEMALE_HEADER_3","2380.000","2950.984","270","Female Header 3"
+"J6","Female Header 3","TopLayer","FEMALE_HEADER_3","2210.000","2950.000","270","Female Header 3"
+"J5","Female Header 3","TopLayer","FEMALE_HEADER_3","2065.000","2950.000","270","Female Header 3"
+"J4","Female Header 3","TopLayer","FEMALE_HEADER_3","2710.000","3365.000","90","Female Header 3"
+"U1","ESP32-DEVKITC-32D","TopLayer","MODULE_ESP32-DEVKITC-32D","3820.000","3040.000","270","WiFi Development Tools (802.11) ESP32 General Development Kit, ESP32-WROOM-32D on the board"
+"U4","DRV8871DDA","BottomLayer","SO-PowerPad-8(8_pins)","5183.779","2434.803","0","IC MTR DRV (6.5V ~ 45V) (3.5 A) SO-PowerPad-8"
+"U3","DRV8871DDA","BottomLayer","SO-PowerPad-8(8_pins)","5246.289","3340.000","270","IC MTR DRV (6.5V ~ 45V) (3.5 A) SO-PowerPad-8"
+"U2","L7805CD2T-TR","BottomLayer","D2PAK","3690.787","3245.000","0","IC REG LINEAR 5V 1A D2PAK"
+"S1","JS202011SCQN","TopLayer","DPDT","2435.000","2510.000","0","DEEP SWITCH 4 POSITIONS"
+"R12","30kOhms","BottomLayer","RESC1608X55N","4975.000","2549.409","90","RES SMD 30 kOHMS 1% 1/10W 0603"
+"R11","30kOhms","BottomLayer","RESC1608X55N","5400.000","3399.409","270","RES SMD 30 kOHMS 1% 1/10W 0603"
+"R10","750R","BottomLayer","RESISTOR_0805","1990.000","3175.000","0","RES SMD 750 OHM 5% 1/8W 0805"
+"R9","10kR","BottomLayer","RESISTOR_0603","3400.000","2700.000","90","RES SMD 10K OHM 5% 1/10W 0603"
+"R8","10kR","BottomLayer","RESISTOR_0603","3295.000","2730.000","0","RES SMD 10K OHM 5% 1/10W 0603"
+"R7","1.5 kR","BottomLayer","RESISTOR_0805","3640.000","2375.000","90","RES SMD 1.5K OHM 1% 1/8W 0805"
+"R6","1.5 kR","BottomLayer","RESISTOR_0805","3980.000","2380.000","90","RES SMD 1.5K OHM 1% 1/8W 0805"
+"R5","1.5 kR","BottomLayer","RESISTOR_0805","3865.000","2380.000","90","RES SMD 1.5K OHM 1% 1/8W 0805"
+"R4","1.5 kR","BottomLayer","RESISTOR_0805","3754.393","2375.607","90","RES SMD 1.5K OHM 1% 1/8W 0805"
+"R3","1.5 kR","BottomLayer","RESISTOR_0805","3525.000","2380.000","90","RES SMD 1.5K OHM 1% 1/8W 0805"
+"Q1","FDS6576","BottomLayer","SOIC-8","3580.000","2840.000","90","MOSFET P-CH 20V 11A SOIC-8"
+"M4","Motor Pad","TopLayer","PAD_MOTOR_MINI","5505.000","2350.000","0","MOTOR PAD MINI SUMÔ"
+"M3","Motor Pad","TopLayer","PAD_MOTOR_MINI","5505.000","2550.000","0","MOTOR PAD MINI SUMÔ"
+"M2","Motor Pad","TopLayer","PAD_MOTOR_MINI","5140.000","3075.000","0","MOTOR PAD MINI SUMÔ"
+"M1","Motor Pad","TopLayer","PAD_MOTOR_MINI","5355.000","3075.000","0","MOTOR PAD MINI SUMÔ"
+"J9","Female Header 3","TopLayer","FEMALE_HEADER_3","2715.000","2945.984","270","Female Header 3"
+"J8","Female Header 3","TopLayer","FEMALE_HEADER_3","2550.000","2944.329","90","Female Header 3"
+"J3","Female Header 3","TopLayer","FEMALE_HEADER_3","2550.000","3360.984","90","Female Header 3"
+"J2","Female Header 3","TopLayer","FEMALE_HEADER_3","2385.000","3360.984","90","Female Header 3"
+"J1","Female Header 3","TopLayer","FEMALE_HEADER_3","2215.000","3360.984","90","Female Header 3"
+"GND","Ground Pad","BottomLayer","PAD_ALIMENTAÇÃO_MINI","4350.000","3160.000","180","GND PAD MINI SUMÔ"
+"D6","Blue","TopLayer","DIODO_2-SMD-3215","2074.971","2485.945","90","LED 75mW BLUE 45MCD 3215"
+"D5","Blue","TopLayer","DIODO_2-SMD-3215","3980.030","2387.431","90","LED 75mW BLUE 45MCD 3215"
+"D4","Blue","TopLayer","DIODO_2-SMD-3215","3866.280","2387.431","90","LED 75mW BLUE 45MCD 3215"
+"D3","Blue","TopLayer","DIODO_2-SMD-3215","3752.530","2387.431","90","LED 75mW BLUE 45MCD 3215"
+"D2","Blue","TopLayer","DIODO_2-SMD-3215","3638.780","2387.431","90","LED 75mW BLUE 45MCD 3215"
+"D1","Blue","TopLayer","DIODO_2-SMD-3215","3525.030","2387.431","90","LED 75mW BLUE 45MCD 3215"
+"C7","47uF","BottomLayer","C1210","5075.000","2660.000","90","CAP CER 47uF 16V X6S 1210"
+"C6","0.1uF","BottomLayer","C0805","5189.685","2675.000","90","CAP CER 100nF 25V X7R 0805"
+"C5","47uF","BottomLayer","C1210","5525.000","3271.850","270","CAP CER 47uF 16V X6S 1210"
+"C4","0.1uF","BottomLayer","C0805","5410.315","3270.344","270","CAP CER 100nF 25V X7R 0805"
+"C3","0.1uF","BottomLayer","C0805","3289.685","3305.000","90","CAP CER 0.1uF 25V X7R 0805"
+"C2","0.33 uF","BottomLayer","C0805","3395.000","2955.315","0","CAP CER 0.33UF 25V X7R 0805"
+"C1","100 nF","TopLayer","C0805","3275.315","2400.000","90","CAP CER 100 nF 100V X7R 0805"
+"BAT","Source Pad","BottomLayer","PAD_ALIMENTAÇÃO_MINI","4350.000","2756.569","180","VCC PAD MINI SUMÔ"

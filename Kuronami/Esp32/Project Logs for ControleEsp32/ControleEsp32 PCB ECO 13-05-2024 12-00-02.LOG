@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=START Pin=U1-J2-5
+Added Pin To Net: NetName=SEN2 Pin=U1-J2-6
+Added Pin To Net: NetName=SEN1 Pin=U1-J2-7
+Added Pin To Net: NetName=FLAGSIGNAL Pin=U1-J2-8
+Added Pin To Net: NetName=DIST5 Pin=U1-J2-9
+Added Pin To Net: NetName=DIST4 Pin=U1-J2-10
+Added Pin To Net: NetName=DIST3 Pin=U1-J2-11
+Added Pin To Net: NetName=DIST2 Pin=U1-J2-12
+Added Pin To Net: NetName=DIST1 Pin=U1-J2-13
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

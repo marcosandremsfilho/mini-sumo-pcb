@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=M1PWM Pin=U1-23
+Added Pin To Net: NetName=M1DIR Pin=U1-24
+Added Pin To Net: NetName=M2PWM Pin=U1-36
+Added Pin To Net: NetName=M2DIR Pin=U1-37

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=controleEsp32.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=controleEsp32.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=Driver2.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Driver2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=controleEsp32.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=Driver1.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Driver1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=controleEsp32.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=Fonteslineares.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Fonteslineares.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\ericl\OneDrive\Área de Trabalho\Sumo\Hardware\MiniSumo2023-Placas2022\MiniSumo2023-Placas2022\Hardware\Control\Esp32\Esp32\ControleEsp32.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

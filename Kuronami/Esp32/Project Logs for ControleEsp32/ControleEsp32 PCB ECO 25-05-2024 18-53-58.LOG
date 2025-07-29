@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=BAT1 NewDesignator=BAT
+Change Component Designator: OldDesignator=GND1 NewDesignator=GND
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares

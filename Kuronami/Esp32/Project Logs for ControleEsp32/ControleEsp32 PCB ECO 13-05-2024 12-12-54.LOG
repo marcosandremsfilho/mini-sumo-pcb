@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=LED1 Pin=D2-A
+Removed Pin From Net: NetName=LED2 Pin=D3-A
+Removed Pin From Net: NetName=LED3 Pin=D4-A
+Removed Pin From Net: NetName=LED4 Pin=D5-A
+Removed Pin From Net: NetName=MedidorBateria Pin=U1-J2-15
+Added Pin To Net: NetName=LED1 Pin=D1-A
+Added Pin To Net: NetName=LED2 Pin=D2-A
+Added Pin To Net: NetName=LED3 Pin=D3-A
+Added Pin To Net: NetName=LED4 Pin=D4-A
+Added Pin To Net: NetName=MedidorBateria Pin=U1-J3-6
+Added Pin To Net: NetName=LED4 Pin=U1-J3-11
+Added Pin To Net: NetName=LED3 Pin=U1-J3-12
+Added Pin To Net: NetName=LED2 Pin=U1-J3-13
+Added Pin To Net: NetName=LED1 Pin=U1-J3-14
+Added Pin To Net: NetName=LED5 Pin=D5-A
+Added Pin To Net: NetName=LED5 Pin=U1-J3-10
+Added Net: Name=LED5
+Added Room: Name=controleEsp32
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=Fonteslineares
