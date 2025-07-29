@@ -9,6 +9,8 @@ alt="A yellow and black logo Description automatically generated with low confid
 
 Eric Makiya Lazanha and Marcos André M. S. Filho
 
+Last reviewer: Eric Makiya Lazanha
+
 Itajubá
 
 2023
